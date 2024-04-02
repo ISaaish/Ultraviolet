@@ -17,7 +17,7 @@ Some of the popular websites that Ultraviolet supports include:
 -   [Google](https://nko4l39n4p.csb.app/)
 -   [Youtube](https://juh3jp-8080.csb.app/?)
 -   [click to go to google](https://google.com)
--   [Discord](https://discord.com)
+-   [click here for microsoft bing](https://bing.com)
 -   [Reddit](https://reddit.com)
 -   [GeForce NOW](https://play.geforcenow.com/)
 -   [now.gg](https://now.gg)
