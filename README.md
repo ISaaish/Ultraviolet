@@ -14,7 +14,7 @@ Ultraviolet offers several features that set it apart from its predecessors, inc
 
 Some of the popular websites that Ultraviolet supports include:
 
--   [Google]([https://google.com](https://nko4l39n4p.csb.app/))
+-   [Google](https://nko4l39n4p.csb.app/)
 -   [Youtube](https://juh3jp-8080.csb.app/?)
 -   [Spotify](https://spotify.com)
 -   [Discord](https://discord.com)
